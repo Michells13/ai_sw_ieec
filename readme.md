@@ -1,6 +1,6 @@
 # AI_SW Repository
 
-Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. the work is part of  a TFM that is described in the following article https://www.overleaf.com/read/hbgypqwfgxnw.
+Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. the work is part of  a TFM that is described in the following article https://www.overleaf.com
 
 ## Objective
 The main objective of our AI team is to advance the field of deep learning and facilitate its integration with RISC-V architectures. We aim to develop and implement cutting-edge AI models and algorithms that can be efficiently deployed on RISC-V-based systems. By bridging the gap between AI and RISC-V, we strive to unlock new opportunities for intelligent applications in various domains.

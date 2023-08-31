@@ -1,0 +1,4 @@
+no_clouds
+partialy_cloudy
+mostly_cloudy
+full

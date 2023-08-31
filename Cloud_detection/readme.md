@@ -20,9 +20,9 @@ The complete process for Task 1 includes the following steps:
 2. **Model Selection and Architecture Design**: The most popular models for classification were proposed due their performans in the same or similar tasks(more documentation about the sources will be added here) as : 
 
 - Resnet 50 
-- Squeezenet
 - Mobilnet
 - VGG16
+- InceptionV3
 
 3. **Model Training**: To train each model and to find the best conbination of hyperparameter an optuna study was implemented where the goal was to utilize the appropriate loss functions, optimization algorithms (e.g., Stochastic Gradient Descent), and regularization techniques to improve the model's performance.
 

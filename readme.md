@@ -30,8 +30,9 @@ This repository is organized into different tasks, each addressing specific aspe
 Please navigate to the relevant task directories to explore the specific implementation details and code related to each task.
 ## Some results
 
-![Example of Unet after training with cloudsen12 Dataset](unet.png)
+
 ![Example of Unet after training with cloudsen12 Dataset](multipleunet.png)
+![Example of Unet after training with cloudsen12 Dataset](unet.png)
 
 
 

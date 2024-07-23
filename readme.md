@@ -1,6 +1,6 @@
 # AI_SW Repository
 
-Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. the work is part of  a TFM that is described in the following article (link)[https://www.overleaf.com/project/64dd7720bfdd590b809f285e]
+Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. This work is part of the IEEC project to send the first nanoSatellites to space with deep learning models integrated and also part of a TFM that is described in the following article (link)[https://www.overleaf.com/project/64dd7720bfdd590b809f285e]
 
 
 ## Introduction

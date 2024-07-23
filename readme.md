@@ -1,6 +1,19 @@
 # AI_SW Repository
 
-Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. the work is part of  a TFM that is described in the following article https://www.overleaf.com
+Welcome to the AI_SW repository! This repository is dedicated to the development and implementation of deep learning systems on RISC-V based platforms. Our team is focused on leveraging the power of AI to enhance the capabilities of RISC-V systems. the work is part of  a TFM that is described in the following article (link)[https://www.overleaf.com/project/64dd7720bfdd590b809f285e]
+
+
+## Introduction
+Observing Earth from space is crucial for applications like agriculture, environmental management, and disaster response.
+Nanosatellites capture high-resolution images, but transmitting data consumes energy, and sometimes, when clouds are present
+in the images, these images are not usefull which means the waste of energy. This study focuses on cloud detection in satellite
+imagery in order to avoid the transmission of useless images, adapting techniques for RISC-V systems, and analyzing computational
+costs and performance. Techniques were adapted for execution on Raspberry Pi and RISC-V platforms. This project addresses
+challenges in introducing innovative hardware to space, emphasizing open-source hardware like RISC-V. The hypothesis is that
+combining open-source hardware with artificial intelligence techniques can expedite technology integration into satellite systems.
+Hyperparameter optimization of models and model conversion experiments were conducted in order to execute inferences on
+RISC-V compatible hardware. This work has enabled the identification of the most suitable methods for utilizing the satellite’s
+on-board capabilities to determine the current level of cloudiness in the image, along with the cloud mas
 
 ## Objective
 The main objective of our AI team is to advance the field of deep learning and facilitate its integration with RISC-V architectures. We aim to develop and implement cutting-edge AI models and algorithms that can be efficiently deployed on RISC-V-based systems. By bridging the gap between AI and RISC-V, we strive to unlock new opportunities for intelligent applications in various domains.
@@ -15,6 +28,15 @@ This repository is organized into different tasks, each addressing specific aspe
 
 
 Please navigate to the relevant task directories to explore the specific implementation details and code related to each task.
+## Some results
+
+
+
+
+
+
+
+
 
 ## Installation
 To set up the necessary environment for running the code in this repository, we provide an `environment.yml` file. The `environment.yml` file contains a list of dependencies and their versions required for the system. 
